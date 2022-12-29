@@ -1,0 +1,3 @@
+# a tiny nntp-router (not nntp-proxy) written in GO
+
+to be released soon...
